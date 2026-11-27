@@ -1,0 +1,7 @@
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.csprojResolveAssemblyReference.cache
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto_en_equipo.MainForm.resources
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.csproj.GenerateResource.Cache
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\bin\Debug\proyecto en equipo.exe
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\bin\Debug\proyecto en equipo.pdb
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.exe
+C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.pdb
