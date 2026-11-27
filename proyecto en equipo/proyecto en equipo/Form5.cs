@@ -28,5 +28,38 @@ namespace proyecto_en_equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtnContadorClick(object sender, EventArgs e)
+		{
+			string palabra = txtPalabra.Text;
+
+	    int vocales = 0;
+	    int consonantes = 0;
+	
+	    for (int i = 0; i < palabra.Length; i++)
+	    {
+	        if (palabra[i] == 'a' || palabra[i] == 'e' ||
+	            palabra[i] == 'i' || palabra[i] == 'o' ||
+	            palabra[i] == 'u' || palabra[i] == 'A' ||
+	            palabra[i] == 'E' || palabra[i] == 'I' ||
+	            palabra[i] == 'O' || palabra[i] == 'U')
+	        {
+	            vocales++;
+	        }
+	        else if ((palabra[i] >= 'a' && palabra[i] <= 'z') ||
+	                 (palabra[i] >= 'A' && palabra[i] <= 'Z'))
+	        {
+	            consonantes++;
+	        }
+	    }
+	
+	    lblVocales.Text = "Vocales: " + vocales;
+	    lblConsonantes.Text = "Consonantes: " + consonantes;
+		}
+		
+		void Button1Click(object sender, EventArgs e)
+		{
+			Application.Exit();
+		}
 	}
 }

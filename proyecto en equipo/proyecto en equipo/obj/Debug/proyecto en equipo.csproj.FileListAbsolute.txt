@@ -6,3 +6,12 @@ C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equip
 C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.exe
 C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.pdb
 C:\Users\aland\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto_en_equipo.Form1.resources
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto_en_equipo.Form1.resources
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto_en_equipo.Form5.resources
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto_en_equipo.MainForm.resources
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.exe
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\bin\Debug\proyecto en equipo.exe
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\bin\Debug\proyecto en equipo.pdb
+C:\Users\USUARIO\Desktop\Deelmasprodelospros\Tarea_3.1\Tarea-3.1-Proyecto-en-equipo\proyecto en equipo\proyecto en equipo\obj\Debug\proyecto en equipo.pdb
