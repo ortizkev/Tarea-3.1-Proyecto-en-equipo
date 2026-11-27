@@ -28,5 +28,38 @@ namespace proyecto_en_equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtnSalirClick(object sender, EventArgs e)
+		{
+			Application.Exit();
+			}
+		
+		void BtnArregloClick(object sender, EventArgs e)
+		{
+			Form2 k = new Form2();
+			this.Hide();
+			k.Show();
+		}
+		
+		void Button2Click(object sender, EventArgs e)
+		{
+			Form3 n = new Form3();
+			this.Hide();
+			n.Show();
+		}
+		
+		void Button3Click(object sender, EventArgs e)
+		{
+			Form4 j = new Form4();
+			this.Hide();
+			j.Show();
+		}
+		
+		void Button4Click(object sender, EventArgs e)
+		{
+			Form5 l = new Form5();
+			this.Hide();
+			l.Show();
+		}
 	}
 }
